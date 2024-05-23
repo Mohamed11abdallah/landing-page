@@ -1,0 +1,15 @@
+- <i class="fa-solid fa-minus"></i> pour  tirer et jajoute les 2 points
+- <i class="fa-solid fa-caret-left"></i> pour le trinagle gauche
+- <i class="fa-brands fa-facebook-f"></i> 
+- <i class="fa-brands fa-twitter"></i>
+- <i class="fa-brands fa-linkedin"></i>
+- <i class="fa-regular fa-location-dot"></i>
+- <i class="fa-light fa-calendar"></i>
+- <i class="fa-thin fa-book-bookmark"></i> CDD
+- <i class="fa-sharp fa-solid fa-circle-plus"></i> +
+- <i class="fa-solid fa-paperclip"></i> joindre un fichier
+- <i class="fa-brands fa-instagram"></i>
+- <i class="fa-brands fa-youtube"></i>
+- <i class="fa-solid fa-heart"></i> Coeur
+- <i class="fa-solid fa-quote-left"></i> gauche top
+- <i class="fa-solid fa-quote-right"></i> droite down
